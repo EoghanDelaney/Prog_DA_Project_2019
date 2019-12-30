@@ -15,14 +15,14 @@ There are two ways in which we can download the repository/project folder. The c
 2.	You must navigate to the desired download location using cd followed by the file path.
 3.	Once in the desired location, you can type the following command 
     
-    $ git clone https://github.com/EoghanDelaney/FoDA_Assessment_2019
+    $ git clone https://github.com/EoghanDelaney/Prog_DA_Project_2019
 4.	Once downloaded we can move into the folder showing all the files within.
 
 
 **Option number 2 – Download Zip**
 1.	The second option is to navigate to the following URL on your prefered web browser. 
     
-    https://github.com/EoghanDelaney/FoDA_Assessment_2019
+    https://github.com/EoghanDelaney/Prog_DA_Project_2019
 2.	Click the green button “Clone or Download” shown on the page.
 3.	Once clicked – a dropdown will appear, now click “Download as Zip”.
 4.	Once the download is complete navigate to the download location you selected.
